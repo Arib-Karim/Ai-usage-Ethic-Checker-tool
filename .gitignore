@@ -1,0 +1,16 @@
+# Project wide ignores
+node_modules/
+venv/
+.env
+.env.local
+__pycache__/
+*.py[cod]
+*$py.class
+dist/
+build/
+.history/
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
