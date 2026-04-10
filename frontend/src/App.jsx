@@ -20,7 +20,7 @@ function App() {
     setInputText(text);
 
     // Use environment variable for API URL in production, fallback to local for dev
-    const API_BASE = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000';
+    const API_BASE = import.meta.env.VITE_API_URL || 'https://ai-usage-ethic-checker-tool.onrender.com';
 
     try {
       const response = await fetch(`${API_BASE}/api/check/`, {
