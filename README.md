@@ -1,7 +1,7 @@
 ## 🌟 Key Features
 
 - **Dynamic Scales**: Watch Lady Justice tilt based on your ethical score.
-- **I gonna Judge you**: A "popped-out" speech bubble delivers witty verdicts.
+- **It gonna Judge you**: A "popped-out" speech bubble delivers witty verdicts.
 - **Deep Analysis**: 6 core metrics evaluated via Google Gemini Flash.
 - **Professional Reports**: Download an "Official Verdict" PDF of your results.
 
